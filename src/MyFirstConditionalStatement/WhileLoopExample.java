@@ -12,8 +12,7 @@ public class WhileLoopExample {
 		while(name.isEmpty()) {
 			System.out.println("Enter your name: ");
 			name=sc.nextLine();
-			}
-		
+			}		
 		System.out.println("Hello " +name);
 	}
 
